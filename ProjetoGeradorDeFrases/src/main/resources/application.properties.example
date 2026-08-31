@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/frases_db
+spring.datasource.username=seu_usuario_aqui
+spring.datasource.password=sua_senha_aqui
+spring.jpa.hibernate.ddl-auto=update
